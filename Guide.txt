@@ -1,0 +1,8 @@
+npm init
+Entry Point = main.js
+license = MIT
+== Installing dependencies ==
+npm i -D electron
+== To Run ==
+In Command Line w/All packages installed
+\FolderPath\FolderName> npm start
